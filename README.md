@@ -1,2 +1,2 @@
 # pulic_config
-peizhijiaoben
+乐赢配置

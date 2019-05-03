@@ -1,5 +1,5 @@
 {
-  "name": "web_app_amina",
+  "name": "web-app-amina",
   "version": "1.0.0",
   "description": "configh5",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "keywords": [
     "url"
   ],
-  "author": "q810138764",
+  "author": "web",
   "license": "ISC"
 }
